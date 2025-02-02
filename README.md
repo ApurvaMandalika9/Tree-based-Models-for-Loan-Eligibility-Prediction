@@ -1,4 +1,4 @@
-# Tree-basedModelsOnLoanDataset
+# Tree-based-Models-for-Loan-Eligibility-Prediction
 
 - In part A, created a decision tree as a binary classifier
 Steps :
